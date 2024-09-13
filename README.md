@@ -2,6 +2,10 @@
 
 Este projeto é uma página de tributo dedicada à banda de rock **The Offspring**, que foi formada na Califórnia. A página apresenta informações sobre a banda, incluindo sua biografia, curiosidades e citações de seus membros.
 
+## Acesso
+
+Para acessar o site visite: https://offspring-roan.vercel.app/
+
 ## Estrutura do Projeto
 
 A estrutura é composta por um arquivo HTML e um arquivo CSS para estilização. Abaixo estão os principais componentes dp projeto:
@@ -53,6 +57,4 @@ Contribuições são bem-vindas! Se você deseja melhorar esta projeto, sinta-se
 ## Licença 
 Este projeto está licenciado sob a Licença MIT.
 
-## Acesso
 
-Para acessar o site visite: https://offspring-roan.vercel.app/
